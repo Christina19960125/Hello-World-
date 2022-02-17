@@ -112,4 +112,9 @@ org.eclipse.jdt.core.compiler.problem.assertIdentifier=error
 
 print """Project ready to be opened with Eclipse (see www.Eclipse.org)
 Use DEclipse.py if you want to go back to building with Ant."""
+
+
+""""
+   test commit
+"""
        
